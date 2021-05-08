@@ -1,0 +1,7 @@
+60 gates 
+not ic- 1(7404)---(6 gates)
+nor ic-1(4002)----(2 gate)
+nor ic-1(4001)----(4 gates)     
+and ic- 6(7408)----(24 gates) 
+or ic- 3(7432)---(12 gates)
+xor ic-3(7486)---(12 gates) 
